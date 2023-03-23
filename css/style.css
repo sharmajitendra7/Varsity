@@ -1086,6 +1086,7 @@ a {
     font-size: 24px;
     line-height: 38px;
     width: 74%;
+    margin-top: 50px;
   }
   .online-course p {
     font-size: 12px;
@@ -1096,7 +1097,7 @@ a {
   .online-course {
     text-align: center;
     margin: 84px 0 84px 0;
-    margin: 0 -28px 0 -28px;
+    margin: 0 -10px 0 -20px;
   }
   .online-course-detail ul {
     white-space: nowrap;
@@ -1316,7 +1317,7 @@ a {
   .time-loc img {
     width: 25px;
     margin-left: 0;
-  }
+  }tes
   .view-btn a {
     line-height: 16px;
     padding: 12px 15px;
@@ -1333,7 +1334,7 @@ a {
   .testimonial-text h2 {
     font-size: 24px;
     line-height: 34px;
-    width: o;
+    width: 87%;
   }
   .testimonial-text p {
     font-size: 12px;
